@@ -4,7 +4,9 @@ const exhbs = require('express-handlebars');
 const methodOverride = require('method-override');
 const session = require('express-session');
 
+// Initializers
 const app = express();
+const db = require('./database');
 
 // Settings
 app.set('port', process.env.PORT || 3000); //If there is a port on your computer use it, if not use 3000.
