@@ -1,10 +1,14 @@
-# Requirements
+# Notes
+
+Note is an applications to create/edit/delete notes and storages to organizate all yours tasks.
+
+## Requirements
 
 To use this program or modify it, you need [node](https://nodejs.org/es/), [mongo](https://www.mongodb.com/es) on your system and install all dependencies.
 
 
 
-# Quick start
+## Quick start
 
 The following command install all necesaries dependencies.
 
